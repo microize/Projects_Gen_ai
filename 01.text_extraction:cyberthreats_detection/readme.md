@@ -21,8 +21,8 @@ To learn more about the hackathon, visit the official page [here](https://machin
 The project can be tackled in the following steps:
 
 1. Check for Prompt Injection using the LLM (Language Model).
-2. If no Prompt Injection is found, extract the code using Prompt 1 (using LLM).
-3. If Prompt Injection is still not found, extract the code using Prompt 2 (using LLM).
+2. If no Prompt Injection is found in input, extract the code using Prompt 1 (using LLM).
+3. If no Prompt Injection is found in input, extract the code using Prompt 2 (using LLM).
 4. Combine the outputs of Prompt 1 and Prompt 2 to obtain the valid code (using LLM).
 
 
