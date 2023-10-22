@@ -6,8 +6,12 @@ Protecting software landscapes from malicious actors is a challenging task. Thes
 
 This hackathon provides participants with a specific text body in which they need to uncover the concealed source code. The text might contain no source control or multiple sections of hidden source code. This event is a great opportunity for participants to showcase their skills, innovate, and establish themselves in the cybersecurity domain.
 
+![Cyber Threats](https://example.com/cyber_threats_banner.jpg)
+
+
 ## Problem Statement
 The primary objective of this project is to identify any source code hidden within the provided text.
+
 
 ## Hackathon Link
 To learn more about the hackathon, visit the official page [here](https://machinehack.com/hackathons/shell_hackathon_to_protect_against_cyber_threats/overview).
@@ -20,11 +24,14 @@ The project can be tackled in the following steps:
 3. If Prompt Injection is still not found, extract the code using Prompt 2 (using LLM).
 4. Combine the outputs of Prompt 1 and Prompt 2 to obtain the valid code (using LLM).
 
+
 ## LLM Used
 The project utilized the GPT-3.5-turbo language model.
 
+
 ## Uniqueness
 - Handled Prompt Injection effectively.
+
 
 ## Advantages
 - Improved accuracy in detecting hidden source code.
