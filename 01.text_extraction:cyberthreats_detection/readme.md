@@ -6,7 +6,8 @@ Protecting software landscapes from malicious actors is a challenging task. Thes
 
 This hackathon provides participants with a specific text body in which they need to uncover the concealed source code. The text might contain no source control or multiple sections of hidden source code. This event is a great opportunity for participants to showcase their skills, innovate, and establish themselves in the cybersecurity domain.
 
-![Cyber Threats](https://example.com/cyber_threats_banner.jpg)
+
+<img src="/01.text_extraction:cyberthreats_detection/yancy-min-842ofHC6MaI-unsplash.jpg" alt="Cyber Threats" width="1000" height="300">
 
 
 ## Problem Statement
