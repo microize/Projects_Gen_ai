@@ -10,10 +10,10 @@ Welcome to my curated collection of generative AI projects, where creativity mee
 Explore a diverse range of projects, from text generation and image synthesis to music creation and beyond. Each project is a testament to the power of generative AI and its transformative impact across various domains.
 
 - **Project 0: [Advanced Prompt Engineering](https://github.com/microize/Projects_Gen_ai/tree/main/00.project_prompt_engineering)**
-  - This project showcases advanced prompt engineering techniques used to solve complex problems. Below are some key documents:
-    - 01_prompt_engineering_basic.pdf  
-    - 02_prompt_engineering_marketing_campaign.pdf  
-    - 03_prompt_engineering_product_design_marketing_campaign.pdf
+  - This project highlights advanced prompt engineering techniques applied to solve complex challenges. Key problems addressed include:
+    - Planning an entire marketing campaign
+    - Designing and planning a product-focused marketing campaign
+
 
 - **Project 1: [Cyberthreat Detection](https://github.com/microize/Projects_Gen_ai/tree/main/01.text_extraction%3Acyberthreats_detection)**
   - Developed a solution to identify malicious code in user inputs and tackle prompt injection attacks.
